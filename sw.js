@@ -2807,7 +2807,7 @@ function removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) 
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var workbox_precaching__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-precaching */ "./node_modules/workbox-precaching/index.mjs");
 
-(0,workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)([{'revision':'0a281e13b46ac401d90a6e4a7a2171b5','url':'/index.bundle.js'},{'revision':'888daff360ffde642e4d144172761f1f','url':'/manifest.888daff360ffde642e4d144172761f1f.json'},{'revision':'f59e9351a48ed74dc50ab6d4e7b39881','url':'/signin.bundle.js'},{'revision':'46f8d0642d30f945878d7ffcbea2e63c','url':'/signup.bundle.js'}]);
+(0,workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)([{'revision':'0a281e13b46ac401d90a6e4a7a2171b5','url':'/index.bundle.js'},{'revision':'888daff360ffde642e4d144172761f1f','url':'/manifest.888daff360ffde642e4d144172761f1f.json'},{'revision':'33132f1f1b72ad4a58bd5296d8a36f52','url':'/signin.bundle.js'},{'revision':'46f8d0642d30f945878d7ffcbea2e63c','url':'/signup.bundle.js'}]);
 const version = '1.4.2';
 
 self.addEventListener('install', function (event) {
