@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-const version = '1.4.13';
+const version = '1.4.14';
 const urls = [
     '/',
     '/index.html',
