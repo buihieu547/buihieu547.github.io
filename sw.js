@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-const version = '1.4.12';
+const version = '#XM_VERSION';
 const urls = [
     '/',
     '/index.html',
@@ -9,7 +9,7 @@ const urls = [
     '/manifest.json',
     '/assets/js/socket.io.js',
     '/assets/js/easyrtc.js',
-    '/source/157.bundle.js',
+    '/source/786.bundle.js',
     '/source/755.bundle.js',
     '/source/index.bundle.js',
     '/source/login.bundle.js',
@@ -49,12 +49,6 @@ self.addEventListener('activate', function (event) {
             return caches.delete(key);
         }));
     }));
-});
-
-self.addEventListener('message', (event) => {
-    if (event.data && event.data.type === 'SKIP_WAITING') {
-        self.skipWaiting();
-    }
 });
 
 // self.addEventListener('fetch', function(event) {
