@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-const version = '#XM_VERSION_#1';
+const version = '#XM_VERSION';
 const urls = [
     '/',
     '/index.html',
@@ -9,7 +9,7 @@ const urls = [
     '/manifest.json',
     '/assets/js/socket.io.js',
     '/assets/js/easyrtc.js',
-    '/source/786.bundle.js',
+    '/source/861.bundle.js',
     '/source/755.bundle.js',
     '/source/index.bundle.js',
     '/source/login.bundle.js',
