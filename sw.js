@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-const version = '#XM_VERSION';
+const version = '#XM_VERSION_1';
 const urls = [
     '/',
     '/index.html',
