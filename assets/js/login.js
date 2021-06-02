@@ -20,8 +20,8 @@ $changeLanguageBtn.click(modalChangeLanguageComp.onInit);
 // ==============================================================================
 // global 
 // ==============================================================================    
-// const XM_URL = 'https://xm.iptp.net/';    
-const XM_URL = process.env.NODE_ENV === 'production' ? '' : 'https://xm.iptp.dev/';
+const XM_URL = 'https://xm.iptp.net/';    
+// const XM_URL = process.env.NODE_ENV === 'production' ? '' : 'https://xm.iptp.dev/';
 
 
 var baseUrl = XM_URL + 'xm';
