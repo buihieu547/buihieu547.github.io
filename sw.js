@@ -1,22 +1,17 @@
 /* eslint-disable */
 
-const version = '#XM_VERSION';
+const version = '#XM_VERSION_1';
 const urls = [
     '/',
     '/index.html',
-    '/login.html',
-    '/main.html',
     '/manifest.json',
     '/assets/js/socket.io.js',
     '/assets/js/easyrtc.js',
     '/source/index.bundle.js',
-    '/source/login.bundle.js',
-    '/source/meeting.bundle.js',
-    '/assets/css/login.css',
+    '/source/77.bundle.js',
+    '/source/styles.bundle.js',
+    '/source/styles.css',
     '/assets/css/xm-icon.min.css',
-    '/source/index.css',
-    '/source/login.css',
-    '/source/meeting.css',
     '/source/700-scaled.jpg',
     '/assets/images/cosmos4-1.jpg',
     '/source/check.svg',
